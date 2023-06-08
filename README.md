@@ -5,3 +5,14 @@ Ciao questa è una demo
 # Leonardo Pizzini
 # Luca
 
+## Locale
+
+Ciao questa è una demo
+
+# Francesco Di Cristinzi
+
+
+
+## Giovanni Novati
+
+Amo PWM
