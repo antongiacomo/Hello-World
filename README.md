@@ -2,5 +2,10 @@
 ## Locale
 Ciao questa è una demo
 #  Francesco Di Cristinzi
-# Antongiacomo
 
+# Antongiacomo
+# Leonardo Pizzini
+# Luca
+## Giovanni Novati
+
+Amo PWM
